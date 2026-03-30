@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Train Stretch's Voice</title>
+    <meta
+      name="description"
+      content="Guided questionnaire for collecting examples of how Stretch would talk."
+    >
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body class="trainer-body">
+    <a class="page-home-link button button-secondary" href="./index.html">Return home</a>
+
+    <main class="page-shell trainer-shell">
+      <section class="panel trainer-card">
+        <div id="voiceTrainerQuestion" class="trainer-question-card">
+          <h1 id="voiceTrainerQuestionTitle"></h1>
+          <p id="voiceTrainerQuestionHint" class="trainer-copy"></p>
+        </div>
+
+        <form id="voiceTrainerForm" class="trainer-form">
+          <label class="sr-only" for="voiceTrainerInput">Stretch voice answer</label>
+          <textarea
+            id="voiceTrainerInput"
+            rows="5"
+            placeholder=""
+          ></textarea>
+          <div class="trainer-submit-row">
+            <button id="voiceTrainerSubmit" class="button button-primary" type="submit">Send answer</button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <script src="./voice-trainer.js"></script>
+  </body>
+</html>

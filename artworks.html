@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Stretch Artwork Gallery</title>
+    <meta
+      name="description"
+      content="Image-driven gallery for finished Stretch artwork assets."
+    >
+    <link rel="stylesheet" href="./artworks.css">
+  </head>
+  <body>
+    <a class="page-home-link" href="./index.html">Return home</a>
+    <div class="gallery-shell">
+      <main>
+        <section id="artworkGallery" class="artwork-grid" aria-label="Stretch artwork gallery"></section>
+      </main>
+    </div>
+
+    <div id="artworkLightbox" class="lightbox" aria-hidden="true">
+      <div class="lightbox-backdrop" data-close-lightbox="true"></div>
+      <div class="lightbox-dialog" role="dialog" aria-modal="true" aria-label="Expanded artwork">
+        <button id="lightboxClose" class="lightbox-close" type="button" aria-label="Close expanded artwork">Close</button>
+        <img id="lightboxImage" class="lightbox-image" alt="">
+      </div>
+    </div>
+
+    <script src="./stretch-avatar-config.js"></script>
+    <script src="./artworks.js"></script>
+  </body>
+</html>

@@ -1,0 +1,232 @@
+# Stretch T-Shirt Generation Prompt (v2)
+
+Use the attached images as the canonical references for Stretch.
+
+---
+
+## 🔒 CORE PRINCIPLE (HIGHEST PRIORITY)
+
+Stretch is a fixed character.
+
+- Do NOT redesign him
+- Do NOT improve or stylise him
+- Do NOT change proportions or facial structure
+
+Only vary:
+- facial expression
+- body language / pose
+- clothing (within defined variants)
+
+If Stretch looks like a different person, the image is incorrect.
+
+---
+
+## 👤 IDENTITY
+
+- Tall (~6'3"), lean, wiry
+- Middle-aged Australian man
+- Relaxed, cheeky, understated personality
+- Never embarrassed — always mildly unfazed
+
+---
+
+## 🧠 FACE & FEATURES
+
+- Long, narrow, slightly angular face
+- Subtle asymmetry (not perfectly balanced)
+- Light crow’s feet and sun wear
+- Sparse, patchy grey stubble (uneven, natural)
+
+### ❌ Do NOT:
+- Soften or round the face
+- Make features symmetrical
+- Clean up skin or stubble
+- Make him look younger or more attractive
+
+---
+
+## 🧍 PROPORTIONS (CRITICAL FOR “STRETCH”)
+
+- Slightly elongated neck (height cue)
+- Head slightly smaller relative to torso
+- Shoulders relaxed (not muscular)
+- Overall tall, slightly lanky silhouette
+
+---
+
+## 🎨 SKIN
+
+- Lightly sun-weathered
+- Subtle tonal variation
+- Not smooth or polished
+
+---
+
+## 🧢 HAT (STRICT LOCK)
+
+- Black Akubra-style bush hat
+- Wide brim, clearly extending outward
+- Slight downward curve at edges
+- Soft, worn, practical shape
+
+### ❌ Do NOT:
+- Use narrow brim
+- Use pinched crown
+- Make it stylish or fashion-oriented
+- Resemble a fedora
+
+---
+
+## 👕 CLOTHING
+
+### Singlet (Base)
+- Navy blue
+- No pockets
+
+### Flannelette
+- Blue/white check
+- Relaxed fit
+- No pockets
+- Tattoo fully hidden
+
+---
+
+## 💉 TATTOOS (SINGLET ONLY)
+
+### Heart
+- Left upper arm
+- Simple black outline
+- No fill
+- Slightly faded
+
+### Band
+- Wrap-around upper arm
+- Indigenous Australian style with goannas
+- Low contrast, slightly faded
+- Slightly imperfect (not crisp or graphic)
+
+### ❌ Do NOT:
+- Increase contrast
+- Add detail
+- Make tattoos decorative or bold
+
+---
+
+## 🧍 CHARACTER PRESENCE
+
+Stretch should feel relaxed and natural.
+
+Allowed variation:
+- Slight lean
+- Head tilt
+- Asymmetrical posture
+- Casual gestures
+
+### ❌ Avoid:
+- Stiff, straight poses
+- Repeated identical stance
+- Apologetic body language
+
+---
+
+## 🎨 STYLE (PRINT-READY)
+
+- Clean, minimal, slightly hand-drawn
+- Bold outlines
+- Flat or lightly shaded color blocks
+- High readability at distance
+
+### ❌ Avoid:
+- Painterly shading
+- Fine detail
+- Soft illustration styles
+
+---
+
+## 🔤 TYPOGRAPHY (STRICT)
+
+Use “Blues”-style lettering:
+
+- Thick, rounded, inflated shapes
+- Slight forward slant
+- Smooth edges
+- Strong dark navy outline
+- Blue gradient fill (light → dark)
+
+### ❌ Do NOT:
+- Use flat text
+- Use thin fonts
+- Use generic bold/italic fonts
+
+---
+
+## 🧱 LAYOUT SYSTEM
+
+### Default:
+[ TOP TEXT ]
+
+      Stretch
+
+[ BOTTOM TEXT ]
+
+### Minimal:
+      Stretch
+
+      TEXT
+
+Rules:
+- Centered composition
+- Strong hierarchy
+- Clean spacing
+
+---
+
+## 🧠 HUMOUR RULE
+
+Text sets up the joke  
+Image delivers it
+
+- Dry
+- Understated
+- Never over-explained
+
+---
+
+## 🔒 FINAL OUTPUT CONSTRAINTS (NON-NEGOTIABLE)
+
+### TEXT
+- Only include the exact phrase provided
+- No extra words
+- No repeated text
+- Do NOT include the word “Stretch”
+
+### DESIGN
+- One joke per image
+- No bleed from previous designs
+- No added captions or labels
+
+### CHARACTER
+- Do not mirror or flip
+- Do not alter tattoo placement
+- No shirt pockets ever
+
+If any rule is broken → image is incorrect
+
+---
+
+## 🔁 REBUILD RULE (IMPORTANT)
+
+When refining an existing design:
+
+- Keep the same composition
+- Keep the same idea
+- Replace only the character with canonical Stretch
+- Do NOT redesign the scene
+
+---
+
+## 🎯 GENERATION TASK
+
+[INSERT PHRASE + SCENE HERE]
+
+Be concise, bold, readable, and consistent with the Stretch system.

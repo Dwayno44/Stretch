@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Stretchisms Chatbot</title>
+    <meta
+      name="description"
+      content="Local-first chatbot prototype for exploring and expanding a family library of Stretchisms."
+    >
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body class="chatbot-body">
+    <a class="page-home-link button button-secondary" href="./index.html">Return home</a>
+    <div class="page-shell">
+      <main class="chat-layout">
+        <section class="panel chat-panel">
+          <div id="chatLog" class="chat-log" aria-live="polite"></div>
+
+          <form id="chatForm" class="chat-form">
+            <label class="sr-only" for="chatInput">Your message</label>
+            <textarea
+              id="chatInput"
+              rows="3"
+              placeholder="Have a yarn with Stretch"
+            ></textarea>
+            <div class="chat-form-row">
+              <button id="feedbackToggle" class="button chat-feedback-toggle" type="button" aria-pressed="false">
+                Stretch wouldn't really say this
+              </button>
+              <button class="button button-primary" type="submit">Send</button>
+            </div>
+          </form>
+        </section>
+      </main>
+    </div>
+
+    <script src="./stretch-avatar-config.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
