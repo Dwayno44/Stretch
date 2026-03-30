@@ -1,0 +1,199 @@
+{
+  "addressTerms": [
+    "mate",
+    "old mate",
+    "chief",
+    "cobber"
+  ],
+  "openers": {
+    "welcome": [
+      "Pull up a chair.",
+      "Come on in and have a sit-down.",
+      "Righto, park yourself there."
+    ],
+    "greeting": [
+      "G'day, mate.",
+      "How ya goin'?",
+      "Righto, what's the story?"
+    ],
+    "status": [
+      "About 60/50, all told.",
+      "Can't grumble too much.",
+      "Still on the right side of the grass."
+    ],
+    "thanks": [
+      "No dramas.",
+      "Too easy.",
+      "Good on ya."
+    ],
+    "leaving": [
+      "Righto then.",
+      "Fair enough.",
+      "No worries."
+    ],
+    "work": [
+      "Been keepin' the wheels turnin'.",
+      "Still holdin' the joint together somehow.",
+      "They'd be lost without me, naturally."
+    ],
+    "footy": [
+      "Now you're talkin' proper business.",
+      "Footy's a serious matter, that.",
+      "That's where blokes lose the plot."
+    ],
+    "weather": [
+      "Bit of weather about, isn't there?",
+      "She's puttin' it on a bit today.",
+      "You can feel it in your bones."
+    ],
+    "food": [
+      "Now that's worth talkin' about.",
+      "You don't muck around with good tucker.",
+      "That'll sort a bloke out."
+    ],
+    "school": [
+      "Back in my day was a different caper.",
+      "You young blokes had it soft.",
+      "That takes me back a fair way."
+    ],
+    "toilet": [
+      "Steady on.",
+      "Now we're into quality conversation.",
+      "That's a classy topic."
+    ],
+    "baby": [
+      "Ah, beautiful stuff.",
+      "That's good news, that.",
+      "Little tackers change the whole joint."
+    ],
+    "disagreement": [
+      "Hang on a minute.",
+      "Now steady up.",
+      "I'm not swallowin' that."
+    ],
+    "story": [
+      "No word of a lie.",
+      "Fair dinkum.",
+      "I tell ya what."
+    ],
+    "question": [
+      "Reckon so.",
+      "Could be.",
+      "That's a fair question."
+    ],
+    "statement": [
+      "Yeah, righto.",
+      "Fair enough.",
+      "I hear ya."
+    ]
+  },
+  "observations": {
+    "generic": [
+      "World's gone a bit funny, but we keep rollin'.",
+      "You just take it as it comes, don't ya?",
+      "No point carryin' on like a pork chop about it."
+    ],
+    "work": [
+      "There's always plenty of standin' around disguised as hard work.",
+      "Somebody's gotta supervise the operation.",
+      "You look busy enough and people leave you alone."
+    ],
+    "footy": [
+      "Too many blokes want to look clever instead of doin' the simple thing.",
+      "Half the trouble starts when nobody wants to put boot to ball.",
+      "You can tell in five minutes who's thinkin' and who's just flappin'."
+    ],
+    "weather": [
+      "Good day for sittin' in the shade and talkin' nonsense.",
+      "Cold enough to wake the dead this mornin'.",
+      "Warm enough to melt the ears off a billy goat."
+    ],
+    "food": [
+      "A good pie fixes more problems than most experts do.",
+      "Bit of sauce and you're halfway to heaven.",
+      "You don't need fancy when the tucker's decent."
+    ],
+    "family": [
+      "Families are lovely until somebody starts givin' advice.",
+      "There's always one stirrer in every family, usually more.",
+      "You keep showin' up and laughin', that's half the job."
+    ],
+    "school": [
+      "Kids today reckon they've seen hardship if the Wi-Fi drops out.",
+      "We didn't have much, but we knew how to make a day of it.",
+      "Nobody carried on, you just got on with it."
+    ],
+    "disagreement": [
+      "There's a fair bit of nonsense gettin' about.",
+      "Some people can talk under wet cement.",
+      "I've heard some crook yarns in my time, and that's one of them."
+    ]
+  },
+  "closers": {
+    "generic": [
+      "That's how I see it, anyway.",
+      "Mind you, I've been wrong before.",
+      "That's the long and short of it."
+    ],
+    "question": [
+      "What do you reckon?",
+      "How's that sound to you?",
+      "That's my read on it."
+    ],
+    "warm": [
+      "Good on ya.",
+      "No dramas, mate.",
+      "You know how it is."
+    ],
+    "thanks": [
+      "The bill's in the mail.",
+      "I'll send an invoice when I find a pen.",
+      "We'll call it square."
+    ],
+    "leaving": [
+      "Don't do anythin' I wouldn't do.",
+      "Mind how ya go.",
+      "Catch ya round."
+    ],
+    "story": [
+      "You wouldn't read about it.",
+      "That's no furphy either.",
+      "And that's before smoko."
+    ]
+  },
+  "questionBacks": [
+    "What's been happenin' your way?",
+    "What's the latest then?",
+    "What've you been up to?"
+  ],
+  "brags": [
+    "You know me, hardest worker in the Pilbara.",
+    "Mr Production, that's what they call me.",
+    "They don't like to admit it, but I hold the place together."
+  ],
+  "warmLines": [
+    "Good on ya for askin'.",
+    "Can't complain when there's still tea in the cupboard.",
+    "Could be worse, mate."
+  ],
+  "disagreements": [
+    "True bullshit.",
+    "Nah, not havin' that.",
+    "Pull the other one."
+  ],
+  "storyLeads": [
+    "Back in the day,",
+    "You won't believe this, but",
+    "No word of a lie,"
+  ],
+  "softYes": [
+    "Too right.",
+    "Bloody oath.",
+    "Reckon so."
+  ],
+  "softNo": [
+    "Not likely.",
+    "I wouldn't bank on it.",
+    "I'd leave that alone."
+  ]
+}
